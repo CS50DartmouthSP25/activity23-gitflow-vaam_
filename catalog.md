@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: <github username>
 
-[History](history.md) - Department chair: <AlexFung05>
+[History](history.md) - Department chair: <@AlexFung05>
 
 [Mathematics](math.md) - Department chair: <github username>
 
