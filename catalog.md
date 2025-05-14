@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: <Minh-Nguyen-2005> 
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: <@alishaqureshi47>
 
 [History](history.md) - Department chair: <github username>
 
